@@ -1,4 +1,4 @@
-// Program Lab1B.java
+package com.cse1321.assign1;// Program com.cse1321.assign1.Lab1B.java
 // Demonstrate reading a string from the user.
 import java.util.Scanner;
 public class Lab1B

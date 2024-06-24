@@ -1,4 +1,4 @@
-// Program Lab1C.java
+package com.cse1321.assign1;// Program com.cse1321.assign1.Lab1C.java
 // Demonstrate the use of the Scanner class to read numeric data.
 import java.util.Scanner;
 public class Lab1C

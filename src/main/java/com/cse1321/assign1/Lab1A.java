@@ -1,4 +1,6 @@
-// Program Lab1A
+package com.cse1321.assign1;
+
+// Program com.cse1321.assign1.Lab1A
 // Demonstrate the difference between print and println.
 public class Lab1A
 {

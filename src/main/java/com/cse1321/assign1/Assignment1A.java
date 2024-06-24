@@ -1,3 +1,5 @@
+package com.cse1321.assign1;
+
 import java.util.Scanner;
 
 public class Assignment1A {
